@@ -1,0 +1,464 @@
+====================================================== 
+   BG3 MOD BACKUP DETAILED LOG - DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded 
+   Sat 11/08/2025  0:19:42.87 
+====================================================== 
+ 
+BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
+Backup folder: C:\GIT_BG3\MOD_REPOS\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded 
+ 
+[FILE COPYING REPORT] 
+====================================================== 
+SECTION 1: FILES FOUND 
+------------------------------------------------------------------------ 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\meta.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\thumbnail.png 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded: 2 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded 
+ 
+Files found: 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded: 0 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\meta.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\mod_publish_logo.png 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\GUI\metadata.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Localization\English\english.xml 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded: 4 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Content\Assets\Characters\Dragonborn\Heads\[PAK]_DGB_F_Head_A\0459cca3-336f-5faa-8ed7-738181a91c56.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Content\Assets\Characters\Dragonborn\Heads\[PAK]_DGB_F_Head_A\70c3f4b3-5599-c0bc-b916-cff618b2a23a.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Content\Assets\Characters\Dragonborn\Heads\[PAK]_DGB_F_Head_A\87dc0108-f736-b996-2d32-4aba746c7820.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Content\Assets\Characters\Dragonborn\Heads\[PAK]_DGB_F_Head_A\ed6a56f1-3430-73da-b0dd-ae03921fe89c.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Content\Assets\Characters\Dragonborn\Heads\[PAK]_DGB_F_Head_A\f64444f1-4e6b-cd40-0586-9ded6982bfc5.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Content\Assets\Characters\Dragonborn\Heads\[PAK]_DGB_F_Head_B\0b50c31e-e3f4-c8e7-c724-c5416805fabc.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Content\Assets\Characters\Dragonborn\Heads\[PAK]_DGB_F_Head_B\2aa869ad-8d9d-342c-dd7a-1b841bce933c.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Content\Assets\Characters\Dragonborn\Heads\[PAK]_DGB_F_Head_B\5c050848-e55d-1b65-d0c5-35ee2c05cbdf.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Content\Assets\Characters\Dragonborn\Heads\[PAK]_DGB_F_Head_B\8bc4a45f-85e8-7c17-aa8d-a12a4aab1c70.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Content\Assets\Characters\Dragonborn\Heads\[PAK]_DGB_F_Head_B\ebdff51e-96a9-2778-4aac-80831979809e.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Content\Assets\Characters\Dragonborn\Heads\[PAK]_DGB_F_Head_C\09c6ef09-5f91-f19d-cbd3-6b4012c48566.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Content\Assets\Characters\Dragonborn\Heads\[PAK]_DGB_F_Head_C\3bceb9e2-1239-8a1a-0864-d0c40302eca8.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Content\Assets\Characters\Dragonborn\Heads\[PAK]_DGB_F_Head_C\473bb35a-9cc3-3f82-660a-3de7132c3ef0.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Content\Assets\Characters\Dragonborn\Heads\[PAK]_DGB_F_Head_C\78a14de0-a7b4-65bd-cf8e-4af4c0efde00.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Content\Assets\Characters\Dragonborn\Heads\[PAK]_DGB_F_Head_C\8a89a589-ea6d-b3f4-c230-dba3d771cc12.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Content\Assets\Characters\Dragonborn\Heads\[PAK]_DGB_F_Head_D\054613c6-3af1-45e8-284d-9800561b5a46.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Content\Assets\Characters\Dragonborn\Heads\[PAK]_DGB_F_Head_D\28b8893f-3511-68f2-0f7b-2f57abb355b8.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Content\Assets\Characters\Dragonborn\Heads\[PAK]_DGB_F_Head_D\567eef35-8faf-d0da-003a-aa1a5feed76c.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Content\Assets\Characters\Dragonborn\Heads\[PAK]_DGB_F_Head_D\60e7de30-ac80-8b5b-f647-293e0d04403b.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Content\Assets\Characters\Dragonborn\Heads\[PAK]_DGB_F_Head_D\686895f6-d620-0ad4-befe-f178907e07cd.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Content\Assets\Characters\Dragonborn\Heads\[PAK]_DGB_F_Head_E\0f92cef1-741d-8d58-fadd-e2e7cd67269d.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Content\Assets\Characters\Dragonborn\Heads\[PAK]_DGB_F_Head_E\2c6dfaf5-f5bc-0748-f62f-9b914141d636.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Content\Assets\Characters\Dragonborn\Heads\[PAK]_DGB_F_Head_E\c860773b-492d-b620-b73d-7e21c63c75d2.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Content\Assets\Characters\Dragonborn\Heads\[PAK]_DGB_F_Head_E\fd326fcb-e62d-16bf-1184-694ebdb0bce3.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Content\Assets\Characters\Dragonborn\Heads\[PAK]_DGB_F_Head_E\fe8a57a0-9015-8163-0a2f-6156841bfcf3.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Content\Assets\Characters\Dragonborn\Heads\[PAK]_DGB_M_Head_A\078d928b-7b88-d8cc-c8c7-232a55408fd9.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Content\Assets\Characters\Dragonborn\Heads\[PAK]_DGB_M_Head_C\63c8db05-6f90-b563-132c-025af08fbbae.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Content\Assets\Characters\Dragonborn\Heads\[PAK]_DGB_M_Head_D\ab25f07c-2f8f-c575-57f8-44030fd50043.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Content\Assets\Characters\Dragonborn\Heads\[PAK]_DGB_M_Head_E\a9110266-1766-a05e-f8ea-6c91385e7a1f.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Content\Assets\Characters\Dragonborn\Heads\[PAK]_DGB_M_Head_F\794fba95-77a1-cb62-52b4-c8b028102279.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Content\Assets\Characters\Dragonborn\Heads\[PAK]_DGB_M_Head_G\7c143271-d212-a70a-97c1-034d225f266c.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Content\Assets\Characters\Dragonborn\[PAK]_Male_Body\0d3d3c28-300b-9b15-15aa-8f44ba0289bd.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Content\Assets\Characters\Dragonborn\[PAK]_Male_Body\0db6e3b1-b542-bdd0-f7df-59a56267ba40.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Content\Assets\Characters\Dragonborn\[PAK]_Male_Body\58bbfeea-8998-38e9-69c5-fe6fe2b7c8e0.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Content\Assets\Characters\Dragonborn\[PAK]_Male_Body\71743cd9-6818-e071-335d-594f55e71e8b.lsf 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded: 35 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Assets\Characters\_Models\Dragonborn\DGB_F_NKD\DGB_F_Body_A\Resources\DGB_F_NKD_Head_A_CTLO_FIX_Vanilla.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Assets\Characters\_Models\Dragonborn\DGB_F_NKD\DGB_F_Body_A\Resources\DGB_F_NKD_Head_A_DMSK_FIX_Vanilla.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Assets\Characters\_Models\Dragonborn\DGB_F_NKD\DGB_F_Body_A\Resources\DGB_F_NKD_Head_A_HMVY_FIX_Vanilla.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Assets\Characters\_Models\Dragonborn\DGB_F_NKD\DGB_F_Body_A\Resources\DGB_F_NKD_Head_A_MSK_FIX_Vanilla.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Assets\Characters\_Models\Dragonborn\DGB_F_NKD\DGB_F_Body_A\Resources\DGB_F_NKD_Head_A_NM_FIX_Vanilla.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Assets\Characters\_Models\Dragonborn\DGB_F_NKD\DGB_F_Head_B\Resources\DGB_F_NKD_Head_B_CTLO_FIX_Vanilla.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Assets\Characters\_Models\Dragonborn\DGB_F_NKD\DGB_F_Head_B\Resources\DGB_F_NKD_Head_B_DMSK_FIX_Vanilla.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Assets\Characters\_Models\Dragonborn\DGB_F_NKD\DGB_F_Head_B\Resources\DGB_F_NKD_Head_B_HMVY_FIX_Vanilla.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Assets\Characters\_Models\Dragonborn\DGB_F_NKD\DGB_F_Head_B\Resources\DGB_F_NKD_Head_B_MSK_FIX_Vanilla.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Assets\Characters\_Models\Dragonborn\DGB_F_NKD\DGB_F_Head_B\Resources\DGB_F_NKD_Head_B_NM_FIX_Vanilla.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Assets\Characters\_Models\Dragonborn\DGB_F_NKD\DGB_F_Head_C\Resources\DGB_F_NKD_Head_C_CTLO_FIX_Vanilla.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Assets\Characters\_Models\Dragonborn\DGB_F_NKD\DGB_F_Head_C\Resources\DGB_F_NKD_Head_C_DMSK_FIX_Vanilla.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Assets\Characters\_Models\Dragonborn\DGB_F_NKD\DGB_F_Head_C\Resources\DGB_F_NKD_Head_C_HMVY_FIX_Vanilla.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Assets\Characters\_Models\Dragonborn\DGB_F_NKD\DGB_F_Head_C\Resources\DGB_F_NKD_Head_C_MSK_FIX_Vanilla.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Assets\Characters\_Models\Dragonborn\DGB_F_NKD\DGB_F_Head_C\Resources\DGB_F_NKD_Head_C_NM_FIX_Vanilla.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Assets\Characters\_Models\Dragonborn\DGB_F_NKD\DGB_F_Head_D\Resources\DGB_F_NKD_Head_D_CTLO_FIX_Vanilla.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Assets\Characters\_Models\Dragonborn\DGB_F_NKD\DGB_F_Head_D\Resources\DGB_F_NKD_Head_D_DMSK_FIX_Vanilla.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Assets\Characters\_Models\Dragonborn\DGB_F_NKD\DGB_F_Head_D\Resources\DGB_F_NKD_Head_D_HMVY_FIX_Vanilla.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Assets\Characters\_Models\Dragonborn\DGB_F_NKD\DGB_F_Head_D\Resources\DGB_F_NKD_Head_D_MSK_FIX_Vanilla.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Assets\Characters\_Models\Dragonborn\DGB_F_NKD\DGB_F_Head_D\Resources\DGB_F_NKD_Head_D_NM_FIX_Vanilla.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Assets\Characters\_Models\Dragonborn\DGB_F_NKD\DGB_F_Head_E\Resources\DGB_F_NKD_Head_E_CTLO_FIX_Vanilla.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Assets\Characters\_Models\Dragonborn\DGB_F_NKD\DGB_F_Head_E\Resources\DGB_F_NKD_Head_E_DMSK_FIX_Vanilla.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Assets\Characters\_Models\Dragonborn\DGB_F_NKD\DGB_F_Head_E\Resources\DGB_F_NKD_Head_E_HMVY_FIX_Vanilla.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Assets\Characters\_Models\Dragonborn\DGB_F_NKD\DGB_F_Head_E\Resources\DGB_F_NKD_Head_E_MSK_FIX_Vanilla.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Assets\Characters\_Models\Dragonborn\DGB_F_NKD\DGB_F_Head_E\Resources\DGB_F_NKD_Head_E_NM_FIX_Vanilla.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Assets\Characters\_Models\Dragonborn\DGB_M_NKD\DGB_M_Body_A\Resources\DGB_M_NKD_Body_A_CTLO_FIX_EL_Vanilla.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Assets\Characters\_Models\Dragonborn\DGB_M_NKD\DGB_M_Body_A\Resources\DGB_M_NKD_Body_A_DMSK_FIX_EL_Vanilla.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Assets\Characters\_Models\Dragonborn\DGB_M_NKD\DGB_M_Body_A\Resources\DGB_M_NKD_Body_A_HMVY_FIX_EL_Vanilla.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Assets\Characters\_Models\Dragonborn\DGB_M_NKD\DGB_M_Body_A\Resources\DGB_M_NKD_Body_A_MSK_FIX_EL_Vanilla.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Assets\Characters\_Models\Dragonborn\DGB_M_NKD\DGB_M_Body_A\Resources\DGB_M_NKD_Head_A_DMSK_FIX_Vanilla.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Assets\Characters\_Models\Dragonborn\DGB_M_NKD\DGB_M_Head_C\Resources\DGB_M_NKD_Head_C_DMSK_FIX_Vanilla.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Assets\Characters\_Models\Dragonborn\DGB_M_NKD\DGB_M_Head_D\Resources\DGB_M_NKD_Head_D_DMSK_FIX_Vanilla.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Assets\Characters\_Models\Dragonborn\DGB_M_NKD\DGB_M_Head_E\Resources\DGB_M_NKD_Head_E_DMSK_FIX_Vanilla.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Assets\Characters\_Models\Dragonborn\DGB_M_NKD\DGB_M_Head_F\Resources\DGB_M_NKD_Head_F_DMSK_FIX_Vanilla.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Assets\Characters\_Models\Dragonborn\DGB_M_NKD\DGB_M_Head_G\Resources\DGB_M_NKD_Head_G_DMSK_FIX_Vanilla.DDS 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded: 35 
+ 
+[LOG] Total files found across all folders: 76 
+ 
+SECTION 2: COPY OPERATIONS 
+------------------------------------------------------------------------ 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Projects\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded to Projects\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded 
+[DEBUG] Using destination: Projects\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Saturday, November 8, 2025 12:19:46 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\
+     Dest : C:\GIT_BG3\MOD_REPOS\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Projects\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		     701	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\meta.lsx100%  
+	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\thumbnail.png 19%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         1         1         0         0         0
+   Files :         2         2         0         0         0         0
+   Bytes :    2.62 m    2.62 m         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           2751645000 Bytes/sec.
+   Speed :           157450.389 MegaBytes/min.
+   Ended : Saturday, November 8, 2025 12:19:46 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 2 
+[DEBUG] Successfully copied files: 2 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded: 
+      Total files: 2 
+      Copied successfully: 2 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Editor\Mods\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded to "Editor\Mods"\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded 
+[DEBUG] Using destination: Editor\Mods\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Saturday, November 8, 2025 12:19:47 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\
+     Dest : C:\GIT_BG3\MOD_REPOS\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Editor\Mods\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         5         5         1         0         0         0
+   Files :         0         0         0         0         0         0
+   Bytes :         0         0         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : Saturday, November 8, 2025 12:19:47 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 0 
+[DEBUG] Successfully copied files: 0 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded: 
+      Total files: 0 
+      Copied successfully: 0 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Mods\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded to Mods\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded 
+[DEBUG] Using destination: Mods\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Saturday, November 8, 2025 12:19:49 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\
+     Dest : C:\GIT_BG3\MOD_REPOS\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Mods\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		    4817	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\meta.lsx100%  
+	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\mod_publish_logo.png  0%  100%  
+	    New File  		    1141	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\GUI\metadata.lsf100%  
+	    New File  		     137	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Localization\English\english.xml100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         4         4         1         0         0         0
+   Files :         4         4         0         0         0         0
+   Bytes :    2.62 m    2.62 m         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           919013000 Bytes/sec.
+   Speed :           52586.345 MegaBytes/min.
+   Ended : Saturday, November 8, 2025 12:19:49 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 4 
+[DEBUG] Successfully copied files: 4 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded: 
+      Total files: 4 
+      Copied successfully: 4 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded to Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded 
+[DEBUG] Using destination: Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Saturday, November 8, 2025 12:19:50 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\
+     Dest : C:\GIT_BG3\MOD_REPOS\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		    1701	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Content\Assets\Characters\Dragonborn\[PAK]_Male_Body\0d3d3c28-300b-9b15-15aa-8f44ba0289bd.lsf100%  
+	    New File  		    1698	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Content\Assets\Characters\Dragonborn\[PAK]_Male_Body\0db6e3b1-b542-bdd0-f7df-59a56267ba40.lsf100%  
+	    New File  		    1701	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Content\Assets\Characters\Dragonborn\[PAK]_Male_Body\58bbfeea-8998-38e9-69c5-fe6fe2b7c8e0.lsf100%  
+	    New File  		    1701	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Content\Assets\Characters\Dragonborn\[PAK]_Male_Body\71743cd9-6818-e071-335d-594f55e71e8b.lsf100%  
+	    New File  		    1686	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Content\Assets\Characters\Dragonborn\Heads\[PAK]_DGB_F_Head_B\0b50c31e-e3f4-c8e7-c724-c5416805fabc.lsf100%  
+	    New File  		    1689	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Content\Assets\Characters\Dragonborn\Heads\[PAK]_DGB_F_Head_B\2aa869ad-8d9d-342c-dd7a-1b841bce933c.lsf100%  
+	    New File  		    1692	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Content\Assets\Characters\Dragonborn\Heads\[PAK]_DGB_F_Head_B\5c050848-e55d-1b65-d0c5-35ee2c05cbdf.lsf100%  
+	    New File  		    1692	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Content\Assets\Characters\Dragonborn\Heads\[PAK]_DGB_F_Head_B\8bc4a45f-85e8-7c17-aa8d-a12a4aab1c70.lsf100%  
+	    New File  		    1692	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Content\Assets\Characters\Dragonborn\Heads\[PAK]_DGB_F_Head_B\ebdff51e-96a9-2778-4aac-80831979809e.lsf100%  
+	    New File  		    1686	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Content\Assets\Characters\Dragonborn\Heads\[PAK]_DGB_F_Head_A\0459cca3-336f-5faa-8ed7-738181a91c56.lsf100%  
+	    New File  		    1689	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Content\Assets\Characters\Dragonborn\Heads\[PAK]_DGB_F_Head_A\70c3f4b3-5599-c0bc-b916-cff618b2a23a.lsf100%  
+	    New File  		    1692	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Content\Assets\Characters\Dragonborn\Heads\[PAK]_DGB_F_Head_A\87dc0108-f736-b996-2d32-4aba746c7820.lsf100%  
+	    New File  		    1692	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Content\Assets\Characters\Dragonborn\Heads\[PAK]_DGB_F_Head_A\ed6a56f1-3430-73da-b0dd-ae03921fe89c.lsf100%  
+	    New File  		    1692	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Content\Assets\Characters\Dragonborn\Heads\[PAK]_DGB_F_Head_A\f64444f1-4e6b-cd40-0586-9ded6982bfc5.lsf100%  
+	    New File  		    1692	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Content\Assets\Characters\Dragonborn\Heads\[PAK]_DGB_F_Head_C\09c6ef09-5f91-f19d-cbd3-6b4012c48566.lsf100%  
+	    New File  		    1692	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Content\Assets\Characters\Dragonborn\Heads\[PAK]_DGB_F_Head_C\3bceb9e2-1239-8a1a-0864-d0c40302eca8.lsf100%  
+	    New File  		    1686	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Content\Assets\Characters\Dragonborn\Heads\[PAK]_DGB_F_Head_C\473bb35a-9cc3-3f82-660a-3de7132c3ef0.lsf100%  
+	    New File  		    1689	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Content\Assets\Characters\Dragonborn\Heads\[PAK]_DGB_F_Head_C\78a14de0-a7b4-65bd-cf8e-4af4c0efde00.lsf100%  
+	    New File  		    1692	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Content\Assets\Characters\Dragonborn\Heads\[PAK]_DGB_F_Head_C\8a89a589-ea6d-b3f4-c230-dba3d771cc12.lsf100%  
+	    New File  		    1692	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Content\Assets\Characters\Dragonborn\Heads\[PAK]_DGB_F_Head_D\054613c6-3af1-45e8-284d-9800561b5a46.lsf100%  
+	    New File  		    1692	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Content\Assets\Characters\Dragonborn\Heads\[PAK]_DGB_F_Head_D\28b8893f-3511-68f2-0f7b-2f57abb355b8.lsf100%  
+	    New File  		    1689	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Content\Assets\Characters\Dragonborn\Heads\[PAK]_DGB_F_Head_D\567eef35-8faf-d0da-003a-aa1a5feed76c.lsf100%  
+	    New File  		    1686	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Content\Assets\Characters\Dragonborn\Heads\[PAK]_DGB_F_Head_D\60e7de30-ac80-8b5b-f647-293e0d04403b.lsf100%  
+	    New File  		    1692	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Content\Assets\Characters\Dragonborn\Heads\[PAK]_DGB_F_Head_D\686895f6-d620-0ad4-befe-f178907e07cd.lsf100%  
+	    New File  		    1692	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Content\Assets\Characters\Dragonborn\Heads\[PAK]_DGB_F_Head_E\0f92cef1-741d-8d58-fadd-e2e7cd67269d.lsf100%  
+	    New File  		    1692	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Content\Assets\Characters\Dragonborn\Heads\[PAK]_DGB_F_Head_E\2c6dfaf5-f5bc-0748-f62f-9b914141d636.lsf100%  
+	    New File  		    1692	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Content\Assets\Characters\Dragonborn\Heads\[PAK]_DGB_F_Head_E\c860773b-492d-b620-b73d-7e21c63c75d2.lsf100%  
+	    New File  		    1686	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Content\Assets\Characters\Dragonborn\Heads\[PAK]_DGB_F_Head_E\fd326fcb-e62d-16bf-1184-694ebdb0bce3.lsf100%  
+	    New File  		    1689	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Content\Assets\Characters\Dragonborn\Heads\[PAK]_DGB_F_Head_E\fe8a57a0-9015-8163-0a2f-6156841bfcf3.lsf100%  
+	    New File  		    1692	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Content\Assets\Characters\Dragonborn\Heads\[PAK]_DGB_M_Head_A\078d928b-7b88-d8cc-c8c7-232a55408fd9.lsf100%  
+	    New File  		    1692	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Content\Assets\Characters\Dragonborn\Heads\[PAK]_DGB_M_Head_C\63c8db05-6f90-b563-132c-025af08fbbae.lsf100%  
+	    New File  		    1692	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Content\Assets\Characters\Dragonborn\Heads\[PAK]_DGB_M_Head_D\ab25f07c-2f8f-c575-57f8-44030fd50043.lsf100%  
+	    New File  		    1692	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Content\Assets\Characters\Dragonborn\Heads\[PAK]_DGB_M_Head_E\a9110266-1766-a05e-f8ea-6c91385e7a1f.lsf100%  
+	    New File  		    1692	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Content\Assets\Characters\Dragonborn\Heads\[PAK]_DGB_M_Head_F\794fba95-77a1-cb62-52b4-c8b028102279.lsf100%  
+	    New File  		    1692	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Content\Assets\Characters\Dragonborn\Heads\[PAK]_DGB_M_Head_G\7c143271-d212-a70a-97c1-034d225f266c.lsf100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :        21        21         1         0         0         0
+   Files :        35        35         0         0         0         0
+   Bytes :    57.8 k    57.8 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             5382545 Bytes/sec.
+   Speed :             307.991 MegaBytes/min.
+   Ended : Saturday, November 8, 2025 12:19:50 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 35 
+[DEBUG] Successfully copied files: 35 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded: 
+      Total files: 35 
+      Copied successfully: 35 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Generated\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded to "Generated\Public"\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded 
+[DEBUG] Using destination: Generated\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Saturday, November 8, 2025 12:19:52 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\
+     Dest : C:\GIT_BG3\MOD_REPOS\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Generated\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		  21.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Assets\Characters\_Models\Dragonborn\DGB_F_NKD\DGB_F_Body_A\Resources\DGB_F_NKD_Head_A_CTLO_FIX_Vanilla.DDS100%  
+	    New File  		  10.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Assets\Characters\_Models\Dragonborn\DGB_F_NKD\DGB_F_Body_A\Resources\DGB_F_NKD_Head_A_DMSK_FIX_Vanilla.DDS100%  
+	    New File  		  21.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Assets\Characters\_Models\Dragonborn\DGB_F_NKD\DGB_F_Body_A\Resources\DGB_F_NKD_Head_A_HMVY_FIX_Vanilla.DDS100%  
+	    New File  		  10.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Assets\Characters\_Models\Dragonborn\DGB_F_NKD\DGB_F_Body_A\Resources\DGB_F_NKD_Head_A_MSK_FIX_Vanilla.DDS100%  
+	    New File  		  21.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Assets\Characters\_Models\Dragonborn\DGB_F_NKD\DGB_F_Body_A\Resources\DGB_F_NKD_Head_A_NM_FIX_Vanilla.DDS100%  
+	    New File  		  21.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Assets\Characters\_Models\Dragonborn\DGB_F_NKD\DGB_F_Head_B\Resources\DGB_F_NKD_Head_B_CTLO_FIX_Vanilla.DDS100%  
+	    New File  		  10.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Assets\Characters\_Models\Dragonborn\DGB_F_NKD\DGB_F_Head_B\Resources\DGB_F_NKD_Head_B_DMSK_FIX_Vanilla.DDS100%  
+	    New File  		  21.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Assets\Characters\_Models\Dragonborn\DGB_F_NKD\DGB_F_Head_B\Resources\DGB_F_NKD_Head_B_HMVY_FIX_Vanilla.DDS100%  
+	    New File  		  10.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Assets\Characters\_Models\Dragonborn\DGB_F_NKD\DGB_F_Head_B\Resources\DGB_F_NKD_Head_B_MSK_FIX_Vanilla.DDS100%  
+	    New File  		  21.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Assets\Characters\_Models\Dragonborn\DGB_F_NKD\DGB_F_Head_B\Resources\DGB_F_NKD_Head_B_NM_FIX_Vanilla.DDS100%  
+	    New File  		  21.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Assets\Characters\_Models\Dragonborn\DGB_F_NKD\DGB_F_Head_C\Resources\DGB_F_NKD_Head_C_CTLO_FIX_Vanilla.DDS100%  
+	    New File  		  10.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Assets\Characters\_Models\Dragonborn\DGB_F_NKD\DGB_F_Head_C\Resources\DGB_F_NKD_Head_C_DMSK_FIX_Vanilla.DDS100%  
+	    New File  		  21.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Assets\Characters\_Models\Dragonborn\DGB_F_NKD\DGB_F_Head_C\Resources\DGB_F_NKD_Head_C_HMVY_FIX_Vanilla.DDS100%  
+	    New File  		  10.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Assets\Characters\_Models\Dragonborn\DGB_F_NKD\DGB_F_Head_C\Resources\DGB_F_NKD_Head_C_MSK_FIX_Vanilla.DDS100%  
+	    New File  		  21.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Assets\Characters\_Models\Dragonborn\DGB_F_NKD\DGB_F_Head_C\Resources\DGB_F_NKD_Head_C_NM_FIX_Vanilla.DDS100%  
+	    New File  		  21.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Assets\Characters\_Models\Dragonborn\DGB_F_NKD\DGB_F_Head_D\Resources\DGB_F_NKD_Head_D_CTLO_FIX_Vanilla.DDS100%  
+	    New File  		  10.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Assets\Characters\_Models\Dragonborn\DGB_F_NKD\DGB_F_Head_D\Resources\DGB_F_NKD_Head_D_DMSK_FIX_Vanilla.DDS100%  
+	    New File  		  21.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Assets\Characters\_Models\Dragonborn\DGB_F_NKD\DGB_F_Head_D\Resources\DGB_F_NKD_Head_D_HMVY_FIX_Vanilla.DDS100%  
+	    New File  		  10.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Assets\Characters\_Models\Dragonborn\DGB_F_NKD\DGB_F_Head_D\Resources\DGB_F_NKD_Head_D_MSK_FIX_Vanilla.DDS100%  
+	    New File  		  21.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Assets\Characters\_Models\Dragonborn\DGB_F_NKD\DGB_F_Head_D\Resources\DGB_F_NKD_Head_D_NM_FIX_Vanilla.DDS100%  
+	    New File  		  21.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Assets\Characters\_Models\Dragonborn\DGB_F_NKD\DGB_F_Head_E\Resources\DGB_F_NKD_Head_E_CTLO_FIX_Vanilla.DDS100%  
+	    New File  		  10.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Assets\Characters\_Models\Dragonborn\DGB_F_NKD\DGB_F_Head_E\Resources\DGB_F_NKD_Head_E_DMSK_FIX_Vanilla.DDS100%  
+	    New File  		  21.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Assets\Characters\_Models\Dragonborn\DGB_F_NKD\DGB_F_Head_E\Resources\DGB_F_NKD_Head_E_HMVY_FIX_Vanilla.DDS100%  
+	    New File  		  10.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Assets\Characters\_Models\Dragonborn\DGB_F_NKD\DGB_F_Head_E\Resources\DGB_F_NKD_Head_E_MSK_FIX_Vanilla.DDS100%  
+	    New File  		  21.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Assets\Characters\_Models\Dragonborn\DGB_F_NKD\DGB_F_Head_E\Resources\DGB_F_NKD_Head_E_NM_FIX_Vanilla.DDS 89%  100%  
+	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Assets\Characters\_Models\Dragonborn\DGB_M_NKD\DGB_M_Body_A\Resources\DGB_M_NKD_Body_A_CTLO_FIX_EL_Vanilla.DDS100%  
+	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Assets\Characters\_Models\Dragonborn\DGB_M_NKD\DGB_M_Body_A\Resources\DGB_M_NKD_Body_A_DMSK_FIX_EL_Vanilla.DDS100%  
+	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Assets\Characters\_Models\Dragonborn\DGB_M_NKD\DGB_M_Body_A\Resources\DGB_M_NKD_Body_A_HMVY_FIX_EL_Vanilla.DDS100%  
+	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Assets\Characters\_Models\Dragonborn\DGB_M_NKD\DGB_M_Body_A\Resources\DGB_M_NKD_Body_A_MSK_FIX_EL_Vanilla.DDS100%  
+	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Assets\Characters\_Models\Dragonborn\DGB_M_NKD\DGB_M_Body_A\Resources\DGB_M_NKD_Head_A_DMSK_FIX_Vanilla.DDS100%  
+	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Assets\Characters\_Models\Dragonborn\DGB_M_NKD\DGB_M_Head_C\Resources\DGB_M_NKD_Head_C_DMSK_FIX_Vanilla.DDS100%  
+	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Assets\Characters\_Models\Dragonborn\DGB_M_NKD\DGB_M_Head_D\Resources\DGB_M_NKD_Head_D_DMSK_FIX_Vanilla.DDS100%  
+	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Assets\Characters\_Models\Dragonborn\DGB_M_NKD\DGB_M_Head_E\Resources\DGB_M_NKD_Head_E_DMSK_FIX_Vanilla.DDS100%  
+	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Assets\Characters\_Models\Dragonborn\DGB_M_NKD\DGB_M_Head_F\Resources\DGB_M_NKD_Head_F_DMSK_FIX_Vanilla.DDS100%  
+	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded\Assets\Characters\_Models\Dragonborn\DGB_M_NKD\DGB_M_Head_G\Resources\DGB_M_NKD_Head_G_DMSK_FIX_Vanilla.DDS100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :        29        29         1         0         0         0
+   Files :        35        35         0         0         0         0
+   Bytes :  458.67 m  458.67 m         0         0         0         0
+   Times :   0:00:01   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           2829129600 Bytes/sec.
+   Speed :           161884.094 MegaBytes/min.
+   Ended : Saturday, November 8, 2025 12:19:52 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 35 
+[DEBUG] Successfully copied files: 35 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded: 
+      Total files: 35 
+      Copied successfully: 35 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+SECTION 3: FALLBACK COPY ATTEMPTS 
+------------------------------------------------------------------------ 
+ 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 2 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 0 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 4 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 35 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Texture_FIX_AkELkA_a6e0870a-0eab-62ce-9f4d-d5608e158ded 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 35 
+SECTION 4: FINAL SUMMARY 
+------------------------------------------------------------------------ 
+ 
+[SUMMARY] Total mod folders found: 1 
+[SUMMARY] Total files found: 76 
+[SUMMARY] Total files successfully copied: 152 
+ 
+[SUMMARY] All files were copied successfully 
+ 
+====================================================== 
