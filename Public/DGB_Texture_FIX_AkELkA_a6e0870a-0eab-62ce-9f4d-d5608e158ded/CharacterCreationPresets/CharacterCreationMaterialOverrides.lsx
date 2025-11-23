@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="500"/>
+    <region id="CharacterCreationMaterialOverrides">
+        <node id="root">
+            <children>
+                <node id="CharacterCreationMaterialOverride">
+                    <attribute id="ActiveMaterialPresetUUID" type="guid" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a"/>
+                    <attribute id="InactiveMaterialPresetUUID" type="guid" value="f03b33ae-5d47-4cb5-80bc-ea06a3c55c96"/>
+                    <attribute id="MaterialType" type="FixedString" value="Passive"/>
+                    <attribute id="Name" type="FixedString" value="DGB_F_NKD_Tail_C"/>
+                    <attribute id="SourceMaterialUUID" type="FixedString" value="27dda013-ac8c-dba3-57b5-92f98bebf8c7"/>
+                    <attribute id="TargetMaterialUUID" type="FixedString" value="423834e3-f11f-373d-52bf-4c52d5d58a98"/>
+                    <attribute id="UUID" type="guid" value="bfe7d221-f098-4244-abdb-40e6213af1dc"/>
+                </node>
+                <node id="CharacterCreationMaterialOverride">
+                    <attribute id="ActiveMaterialPresetUUID" type="guid" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a"/>
+                    <attribute id="InactiveMaterialPresetUUID" type="guid" value="f03b33ae-5d47-4cb5-80bc-ea06a3c55c96"/>
+                    <attribute id="MaterialType" type="FixedString" value="Passive"/>
+                    <attribute id="Name" type="FixedString" value="DGB_F_NKD_Tail_B"/>
+                    <attribute id="SourceMaterialUUID" type="FixedString" value="91bba943-15eb-c17a-e5b0-0afd48b9f1c4"/>
+                    <attribute id="TargetMaterialUUID" type="FixedString" value="96de7289-5d5c-573e-c9d6-0d60b2e1fd26"/>
+                    <attribute id="UUID" type="guid" value="4645345c-156b-4fd5-8ea4-ff27f0f25778"/>
+                </node>
+                <node id="CharacterCreationMaterialOverride">
+                    <attribute id="ActiveMaterialPresetUUID" type="guid" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a"/>
+                    <attribute id="InactiveMaterialPresetUUID" type="guid" value="f03b33ae-5d47-4cb5-80bc-ea06a3c55c96"/>
+                    <attribute id="MaterialType" type="FixedString" value="Passive"/>
+                    <attribute id="Name" type="FixedString" value="DGB_M_NKD_Tail_C"/>
+                    <attribute id="SourceMaterialUUID" type="FixedString" value="0e58d0e9-2f00-c417-37cc-1979f30e8e57"/>
+                    <attribute id="TargetMaterialUUID" type="FixedString" value="0c59104f-ec53-b359-cf1b-001198e3df09"/>
+                    <attribute id="UUID" type="guid" value="4126e552-0c21-4c29-bb39-1d89abe32100"/>
+                </node>
+                <node id="CharacterCreationMaterialOverride">
+                    <attribute id="ActiveMaterialPresetUUID" type="guid" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a"/>
+                    <attribute id="InactiveMaterialPresetUUID" type="guid" value="f03b33ae-5d47-4cb5-80bc-ea06a3c55c96"/>
+                    <attribute id="MaterialType" type="FixedString" value="Passive"/>
+                    <attribute id="Name" type="FixedString" value="DGB_M_NKD_Tail_B"/>
+                    <attribute id="SourceMaterialUUID" type="FixedString" value="36d7f046-1868-bdcf-47d5-1739ae3ce270"/>
+                    <attribute id="TargetMaterialUUID" type="FixedString" value="d88ae332-8838-b7f9-ba41-488c2723a96e"/>
+                    <attribute id="UUID" type="guid" value="7d689276-e188-46c8-961c-aaebf4e32939"/>
+                </node>
+                <node id="CharacterCreationMaterialOverride">
+                    <attribute id="ActiveMaterialPresetUUID" type="guid" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a"/>
+                    <attribute id="InactiveMaterialPresetUUID" type="guid" value="f03b33ae-5d47-4cb5-80bc-ea06a3c55c96"/>
+                    <attribute id="MaterialType" type="FixedString" value="Passive"/>
+                    <attribute id="Name" type="FixedString" value="DGB_F_NKD_Body_Genital_B"/>
+                    <attribute id="SourceMaterialUUID" type="FixedString" value="a5c39d9c-de70-9796-2d87-f4d08652c790"/>
+                    <attribute id="TargetMaterialUUID" type="FixedString" value="b95ff70e-457c-fd76-e123-c932c65cfdc4"/>
+                    <attribute id="UUID" type="guid" value="70ed3215-6c1c-4d4e-84a6-7f7dd31d25fc"/>
+                </node>
+                <node id="CharacterCreationMaterialOverride">
+                    <attribute id="ActiveMaterialPresetUUID" type="guid" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a"/>
+                    <attribute id="InactiveMaterialPresetUUID" type="guid" value="f03b33ae-5d47-4cb5-80bc-ea06a3c55c96"/>
+                    <attribute id="MaterialType" type="FixedString" value="Passive"/>
+                    <attribute id="Name" type="FixedString" value="DGB_F_NKD_Body_Genital_A"/>
+                    <attribute id="SourceMaterialUUID" type="FixedString" value="2c75ec63-da78-af8c-ab43-25b5bb2586ee"/>
+                    <attribute id="TargetMaterialUUID" type="FixedString" value="95c145ab-0f68-1669-d92f-a645a3033ced"/>
+                    <attribute id="UUID" type="guid" value="1a6e1cd2-c688-4757-9c77-3a65989c15be"/>
+                </node>
+                <node id="CharacterCreationMaterialOverride">
+                    <attribute id="ActiveMaterialPresetUUID" type="guid" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a"/>
+                    <attribute id="InactiveMaterialPresetUUID" type="guid" value="f03b33ae-5d47-4cb5-80bc-ea06a3c55c96"/>
+                    <attribute id="MaterialType" type="FixedString" value="Passive"/>
+                    <attribute id="Name" type="FixedString" value="DGB_M_NKD_Body_Genital_B"/>
+                    <attribute id="SourceMaterialUUID" type="FixedString" value="84b4ba3d-4e01-b78a-2698-5a844afab398"/>
+                    <attribute id="TargetMaterialUUID" type="FixedString" value="bd19c4b4-a08e-350d-c937-91a3f3e39196"/>
+                    <attribute id="UUID" type="guid" value="aea74768-27a2-4fa1-8fc4-9dd666322beb"/>
+                </node>
+                <node id="CharacterCreationMaterialOverride">
+                    <attribute id="ActiveMaterialPresetUUID" type="guid" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a"/>
+                    <attribute id="InactiveMaterialPresetUUID" type="guid" value="f03b33ae-5d47-4cb5-80bc-ea06a3c55c96"/>
+                    <attribute id="MaterialType" type="FixedString" value="Passive"/>
+                    <attribute id="Name" type="FixedString" value="DGB_M_NKD_Body_Genital_A"/>
+                    <attribute id="SourceMaterialUUID" type="FixedString" value="822f90a6-6a04-7c61-018a-134ff67fa5a5"/>
+                    <attribute id="TargetMaterialUUID" type="FixedString" value="0d98753b-efa8-00ba-ffe6-d77512b8c1ae"/>
+                    <attribute id="UUID" type="guid" value="a59371f9-afe8-483d-a044-d5ddcb63d7be"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
